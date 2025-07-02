@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://drive.google.com/file/d/1j89QCXaCqWDzlYQqG56jtUXcOryKwlxI/view?usp=drive_link
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: https://drive.google.com/file/d/1j89QCXaCqWDzlYQqG56jtUXcOryKwlxI/view?usp=drive_link # you can also use external links here
-description: Link to CV
+nav_order: 4
+cv_pdf: 
+description:
 toc:
-  sidebar: left
+  sidebar:
 ---
