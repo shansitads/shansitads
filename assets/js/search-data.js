@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Link to CV",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/drive.google.com/file/d/1j89QCXaCqWDzlYQqG56jtUXcOryKwlxI/view?usp=drive_link";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
