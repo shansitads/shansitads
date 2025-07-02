@@ -64,15 +64,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-ml-paper-in-10-minutes",
-          title: 'ML paper in 10 minutes',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-currently-interning-as-a-swe-at-google",
-          title: 'Currently interning as a SWE at Google',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
