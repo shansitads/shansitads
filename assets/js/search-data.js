@@ -34,11 +34,11 @@ ninja.data = [{
         
           title: "Ml Papers In 10 Minutes",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "explaining machine learning research papers I&#39;ve liked reading",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/ML-Papers-In-10-Minutes/";
+            window.location.href = "/blog/2025/ML-Papers-In-10-Minutes/";
           
         },
       },{id: "books-the-godfather",
