@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/drive.google.com/file/d/1j89QCXaCqWDzlYQqG56jtUXcOryKwlxI/view?usp=drive_link";
           },
-        },{id: "post-ml-papers-in-10-minutes",
+        },{id: "post-machine-learning-papers-in-10-minutes",
         
-          title: "Ml Papers In 10 Minutes",
+          title: "machine learning papers in 10 minutes",
         
-        description: "explaining machine learning research papers I&#39;ve liked reading",
+        description: "explaining ML research papers I&#39;ve liked reading",
         section: "Posts",
         handler: () => {
           
