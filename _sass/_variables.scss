@@ -29,12 +29,18 @@ $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
 
+$brown-color: #a29588 !default;
+$brown-color-light: color.adjust($brown-color, $lightness: 40%);
+$brown-color-dark: #201d1b !default;
+$brown-900: #37302c !default;
+$yellow-soft-color: #cab97e !default;
+
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($green-color-dark, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location

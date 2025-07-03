@@ -7,7 +7,7 @@ tags: youtube
 categories: thoughts
 ---
 
-I used to make YouTube tutorials for iOS app development back in high school. Recently, I was explaining the workings of an LLM to my non-tech friend to demonstrate why the who-to-trust-less race between Wikipedia and LLMs may be a close one, and I realized that it's really fun to break down ML topics. I went ahead and looked back at my old youtube channel and decided to start a series of explaining the key ideas behind research papers I find interesting during my literature reviews, all in videos under 10 minutes long. I figured, if anything, it'll be practice for me to articulate complex ideas!
+I used to make YouTube tutorials for iOS app development back in high school. Recently, I was explaining the workings of an LLM to my non-tech friend while debating the who-to-trust-less race between Wikipedia and LLMs, and I realized that it's really fun to break down ML topics. I went ahead and looked back at my old youtube channel and decided to start a series of explaining the key ideas behind research papers I find interesting during my literature reviews, all in videos under 10 minutes long. I figured, if anything, it'll be practice for me to articulate complex ideas!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
