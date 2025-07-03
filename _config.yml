@@ -7,7 +7,7 @@ first_name: Shansita
 middle_name: D.
 last_name: Sharma
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website for Shansita Das Sharma
 footer_text: >
@@ -143,8 +143,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
@@ -192,6 +190,7 @@ exclude:
   - vendor
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
@@ -253,8 +252,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
