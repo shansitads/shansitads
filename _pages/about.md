@@ -26,7 +26,7 @@ latest_posts:
 
 Hi, I'm a senior at Vanderbilt University, studying Computer Science, Mathematics, Data Science and Scientific Computing.
 
-I enjoy exploring mathematical machine learning to create model-agnostic improvements in foundation models through parameter-efficient and label-efficient continual learning, and few-shot inference time optimization.
+I'm interested in exploring mathematical and statistical machine learning in continual learning and representation learning contexts.
 
 I work on parameter-efficient continual learning with the [Machine Intelligence and Neural Technologies (MINT)](https://mint-vu.github.io/) Lab under Prof. Soheil Kolouri and label-efficient active learning in physiological contexts with [Neuroimaging & Brain Dynamics (NeurdyLab)](https://www.cchanglab.net/) Lab under Prof. Catie Chang. I have previously also worked with the [Modeling and Analysis of Complex Systems (MACS)](https://lab.vanderbilt.edu/vumacs/) lab under Prof. Gautam Biswas on a transfer learning project for energy efficiency.
 
